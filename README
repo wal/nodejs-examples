@@ -1,0 +1,10 @@
+Some very simple playing about with node.js
+
+--
+console_hello - print a simple message to the console using node and setTimeout
+dns - async DNS resolution
+file_watch - watch a file on the filesystem for updates
+file_read - Async reading of a file using the node file thread pool
+tcp_server - simple tcp server that responds with a simple message
+hello_world_http - simple http server that responds with 200/'Hello World'
+
