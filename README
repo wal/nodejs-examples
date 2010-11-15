@@ -7,4 +7,4 @@ file_watch - watch a file on the filesystem for updates
 file_read - Async reading of a file using the node file thread pool
 tcp_server - simple tcp server that responds with a simple message
 hello_world_http - simple http server that responds with 200/'Hello World'
-
+http_static_file_server - A simple static file server
